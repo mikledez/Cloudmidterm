@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $T="Portfolio | Main";
+    $H3_1="Education";
+    $H3_2=""
+?>
 <head>
-  <title>Mikkel Ledezma Portfolio</title>
+  <title><?php echo $T;?></title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
